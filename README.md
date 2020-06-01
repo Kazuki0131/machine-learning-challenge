@@ -71,5 +71,6 @@ The Classification Reports showed that even if the SVM had higher scores on the 
 
 The Random Forest model was more accurate, effective and capable in classifying candidate exoplanets based on the results above.
 
+---
 ## Technology used:
 * Python, Scikit-learn
